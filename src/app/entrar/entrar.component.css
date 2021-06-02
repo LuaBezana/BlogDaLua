@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('https://cdn.shopify.com/s/files/1/0305/4075/9177/products/N013216_1.jpg?v=1612962353');
+
+    min-height: 720px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
